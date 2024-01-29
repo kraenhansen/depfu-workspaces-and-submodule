@@ -1,0 +1,3 @@
+[submodule "packages/my-lib"]
+	path = packages/my-lib
+	url = git@github.com:kraenhansen/depfu-workspaces-and-submodule-dep.git
