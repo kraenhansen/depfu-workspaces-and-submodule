@@ -6,6 +6,6 @@
     "packages/my-lib"
   ],
   "dependencies": {
-    "chalk": "^4"
+    "chalk": "^5.3.0"
   }
 }
