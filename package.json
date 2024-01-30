@@ -4,5 +4,8 @@
   "version": "0.1.0",
   "workspaces": [
     "packages/my-lib"
-  ]
+  ],
+  "dependencies": {
+    "chalk": "^4"
+  }
 }
